@@ -1,27 +1,112 @@
-# PRVINE
+# Cilji
 
-- moč
-- gibčnost
-- vzdržljivost
-- eksplozivnost
-- koordinacija
-- dinamičnost
-- hitrost
-- odriv
+Vprašaj tečajnike, kakšni so njihovi cilji.
+Razloži jim razlike med rekreacijo in treningom.
+Kdor želi trenirati, naj dela na svojih šibkih točkah.
 
-# TEHNIKE
+Moj glavni cilj je, ne da vi preplezate balvan, ampak da razumete gibanje.
+Mogoče ste danes že preveč utrujeni za to, da bi gib uspešno opravili.
+Ampak če ga razumete, ga boste naslednjič spočiti zagotovo naredili.
+Seveda pa naj bo vedno vaš glavni cilj, da uspešno in čim lepše preplezate problem ;)
+
+# Dejavniki za uspešen vzpon
+
+Kaj vse je pomembno, za uspešen vzpon?
+
+Splošno:
+
+- Trening: 3x na teden na plastiko, 2x v skalo, minimum za nek opazen napredek je vsaj 2x tedensko
+- Prehrana: preferiramo lahko prebavljivo hrano že dan pred plezanjem, nikakor ne jemo mastne pice pred vzponom
+- Spanje: ni treba izgubljati besed, 8h, po težkme plezalnem dnevu tudi 9h, privoščite si, telo vam bo hvaležno
+- Počitek: na dan počitka se premigaj, pojdi tečt ali na slackline, naredi strečing ali jogo, bodi na izi aktiven
+- Izbira plezalnikov: v 90° platkah na mikro stopih rabiš trdo konico, v fontu na sloperjih rabiš mehke plezalnike
+- Izbira soplezalca: nekdo, ki te motivira in ti pomaga, pa še to, spoštuj naravo, poduči se o plezalski etiki
+- Glava: strah pred uspehom, un gib ne morem naredit, ... razmisli, kaj delaš narobe in to popravi
+- Psihična priprava: vizualiziraj si vzpon, dihaj, ko postaneš živčen ne pozabi na dihanje
+- Razmere: jebiga, včasih so razmere slabe in oprimki ne držijo isto
+
+Vzpon:
+
+- Opazovanje: preglej balvan, morda se za vogalom skriva kak skrit oprimek
+- Vizualizacija: zapri oči in balvan preplezaj v glavi, vmes bodi pozoren na dihanje
+- Flash poskus: opazuj, beri skalo, poslušaj telo, popravljaj, prilagjaj, bodi odločen, daj 100% noter
+- Začetek: pazi, da se ne naviješ, še preden štartaš, roki spusti dol, ju stresi, zadihaj, primi oprimke in začni
+- Dihanje: pred začetkom plezanja globoko vdihni ali izdihni, pozoren bodi da ves čas lepo dihaš
+- Počitek med poskusi: ne se zaganjat, razmisli koliko počitka zahteva balvan, naklonina je kar faktor
+- Ščetkanje oprimkov: med počitkom oprimke poščetkaj ali poklofaj z brisačko (font) in vmes razmišljaj o balvanu
+- Razmišljanje o gibu: zvečer ponavljaj beto za balvan/smer ali pa razmišljaj o gibu, ki ga nisu uspel narediti
+- Kaj delam narobe? A je kakšna druga beta? Vprašaj kakšno fletno plezalko ali luštnega plezalca za beto ;)
+- A se da pohekat? Če pohekaš na plastiki, obvezno preplezaj še original verzijo!
+
+# Vloga gibalnih sposobnosti
+
+Tek na 100m:
+
+- 15% mentalno
+- 15% tehnično
+- 70% fizično
+
+Golf:
+
+- 40% mentalno
+- 50% tehnično
+- 10% fizično
+
+Plezanje:
+
+- 33% mentalno
+- 33% tehnično
+- 33% fizično
+
+Lahko si močan ko žival, a brez tehnike priplezaš le tako daleč.
+Isto velja za tehniko. Lahko plezaš brezhibno, a brez moči priplezaš le tako daleč.
+Zadnje, če glava ni pri stvari in ne razmišljaš, plezaš v prazno. Fokus!
+
+# Gibalne sposobnosti
+
+Po Biziju:
+
+1. Gibljivost
+2. Moč
+3. Vzdržljivost
+4. Koordinacija
+5. Hitrost
+
+Če želiš postati mojster oziroma mojstrica plezanja, moraš imeti vseh pet!
+
+Jest bi dodal še te besede:
+
+- Eksplozivnost
+- Dinamičnost
+- Fluidnost
+- Odriv
+
+V razmislek:
+
+- Prirojenost / možnost za razvoj
+- Prepletanje / povezovanje
+
+# Plezalne tehnike
+
+Prijemanje:
 
 - prijemanje oprimkov
 - preprijemanje
 - križanje rok
 - podaljševanje
 
+Stopanje:
+
 - stopanje po stopih
 - stopanje na trenje
+
+Osnove:
 
 - plezalno zaporedje
 - osnovni položaj
 - osnovni položaj pri stopanju na trenje
+
+Napredno:
 
 - križanje nog
 - prestopanje
@@ -31,64 +116,11 @@
 - zastavice
 - zatikanje pete
 - zatikanje prstov
+
+Vrste terena:
+
 - plezanje plat
 - plezanje previsov
 - plezanje raza
 - plezanje kamina
 - plezanje zajede
-
-# Moč
-
-- plezanje previsov, dolgi gibi
-- vzgibi, dodaj uteži, 5-10 ponovitev, do odpovedi mišice, 4 serije
-- plezanje težkih balvanov
-- mišico je treba dati na maximum
-
-# Eksplozivnost
-
-- dyno, dead-point, speed climb
-- dobro se ogrej!
-- do maximuma. potem se popolnoma spočij in ponovi vajo.
-- koncentrično (vzgibi): 90%, 3-6 ponovitev, 3-5 serij, 3-5min pavze
-- izometrično (visenje): 100%, 2 ponovitvi, 5 serij, 3min pavze
-- single-arm hang v aktivnem položaju ali v blokadi, 3-5s, open grip, half-crimp, crimp
-- vzgib s hitrim potegom navzgor, dol počasi, šteješ do 5
-- woodie: 1-2-3, 1-3-4, 1-2-4, 1-3-5, ...
-- hitrostno plezanje
-
-# Vzdržljivost
-
-- plezanje dolgih smeri
-- dodaj ponovitve z utežmi
-- plezanje po steni, ne na maximumu, vsaj 20min
-- trening približno 2h, da mišico izpraznimo
-- 3x tedensko po 2h
-
-# Vzdržljivost v moči
-
-- dolgi detajli, veliko težkih gibov zapored
-- visenje na enem ali dveh oprimkih
-- 7s on, 3s off, 1min pavze, 5x
-- ponoviš na drugih oprimkih
-
-# Eksplozivnost nog
-
-- odrinemo čim višje z iztegnjenimi nogami
-- trije čim daljši skoki po eni in drugi nogi
-- poskoki na mestu, kolena čim višje
-- poskok iz počepa čim višje
-- vojaška skleca brez sklece, čim višje odrinemo
-- izmenično skačemo v izpadni korak
-- skok na pad, postopoma čim višje
-- povezani skoki v daljino iz mesta
-- roll-jump: zavalimo se nazaj na lopatice, nato naprej na noge, odrinemo!
-- hopsanje v kvadratu po eni nogi, tja in nazaj. najprej počasi in s kontrolo, nato čim hitreje.
-- primemo nasprotno nogo in skočimo čez
-- odrineš na stop in zadržiš kišto na dlan
-- z mesta odrineš od stopa čim višje oziroma dlje
-- pritečeš in odrineš od volumna z zaletom
-- sonožni skok na crashpad, vedno višje
-- primemo se za prste ene noge in skočimo naprej in nazaj
-- stopnice hodimo izmenične in preskakujemo 3 ali 4?
-- stopnice skačemo 2 gor 1 dol čim hitreje
-- stopnice skačemo gor po eni in drugi nogi

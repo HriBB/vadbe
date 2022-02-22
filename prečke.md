@@ -1,4 +1,4 @@
-# Lahke, za ogrevanje
+# Lahke
 
 - žabica
 - križanje nog
@@ -6,14 +6,14 @@
 - prestopanje
 - preprijemanje
 - odprti prijem
-- zaprti prijem
 - lenivec, plezaš počasi
 - tiha maša po stopkih, z nogami ne smemo povzročati zvoka
 
-# Srednje, že malo navije
+# Srednje
 
 - v miže
 - s tremi prsti
+- zaprti prijems
 - podaljševanje
 - vrtenje bokov
 - delanje zastavic
@@ -25,7 +25,7 @@
 - 4 slabe oprimke, 2 dobra
 - iztegnjene roke. termarest ali nek plakat okoli rok, da jih ne moremo pokrčiti
 
-# Težke, šutnilo bo, moramo biti ogreti
+# Težke
 
 - hitrostno
 - krimpanje
@@ -41,8 +41,8 @@
 - stopamo po označenih stopih, ko na stop stopiš z eno nogo, nanj ne smeš več stopiti z drugo
 - 5 slabih, 1 dober
 
-# Prečke v paru
+# V paru
 
-- sestavljanka
+- sestavljanka, vsak doda 2-3 oprimke
 - kazalica 20 gibov z rokami po različnih oprimkih
 - kazalica 20 oprimkov za noge

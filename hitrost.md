@@ -1,0 +1,3 @@
+# Hitrost
+
+Hitrost, dinamičnost, fluidnost

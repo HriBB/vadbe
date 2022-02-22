@@ -47,6 +47,7 @@
 - viruski: ena ali dve žogi, žogo lahko vržemo, ali se z njo dotaknemo igralca. isto kot bratec reši me.
 - žoga v kroga: velika žoga potuje za hrbtom, pod nogama, nad glavo, levo, desno
 - žogice v krogice: več malih žog potuje v krogu za hrbtom, pod nogama, nad glavo, levo, desno, čim hitreje.
+- škarjice: vsaj 2 na 2, s trakci označimo cesto s trakci na vsake pol metra. vsaka ekipa štarta na enem koncu, eden proti drugemu delata sonožne poskoke po trakcih, ko se srečata igrata kamen-škarje-papir, kdor izpade, gre na začetek in naredi vaje za moč, kdor zmaga gre naprej, ekipa ki izgubi, skače naslednji od začetka, magaš če prideš do nasprotnikove baze.
 
 # Igre v paru:
 

@@ -1,3 +1,5 @@
+# Zatikanje pete TODO
+
 # Kdaj jo uporabljamo
 
 1. Nalaganje na peto ali rock over

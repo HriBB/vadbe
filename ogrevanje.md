@@ -1,4 +1,4 @@
-# Ogrevanje
+# Ogrevanje TODO
 
 - stojimo na eni nogi, z drugo se skušamo dotakniti čim dlje naprej, nazaj, levo, desno in diagonalno
 
@@ -19,3 +19,5 @@
 - dvigovanje trupa na štangi do 5x
 
 # Ogrevanje s poudarkom na gibčnosti
+
+- nalaganje na peto na zidu
